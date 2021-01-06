@@ -1,5 +1,5 @@
 # Collaborative Robot
-This project works towards developing a distributed human-machine interface for telerobotic control. We are using arduinos as the input controllers and the robot controller.
+This project works towards developing a distributed human-machine interface for telerobotic control. We are using arduinos as the input controllers and the robot controller. The project write up can be found at: https://www.designsbypriyanka.com/cobot
 
 # Requirements:
 Install Arduino >= 1.8.13
